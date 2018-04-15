@@ -1,0 +1,4 @@
+#Sun Apr 15 10:08:52 IST 2018
+base.0=E\:\\ESPOIRSOFT DATA\\Development environment\\Android\\4Tech\\BitbuckedWorkspace\\EspoirDialogDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
